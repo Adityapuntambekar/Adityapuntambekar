@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--# 💫 About Me:
+# 💫 About Me:
 I'm Aditya Puntambekar, currently pursuing a BSc in Data Science and Big Data Analytics. My work spans machine learning fundamentals to production-grade AI systems — from CNNs and RNNs for classification and sentiment analysis, to clustering and predictive models for real-world use cases like loan approval and demand forecasting.<br><br>Right now, I'm contributing to AVRLM, a grid-based LiDAR mapping system, where I built the core hierarchical grid aggregation pipeline, an SNN-based processing module, and a full test suite. In parallel, I'm going deep on retrieval-augmented generation (RAG), generative AI, and agentic AI — exploring how autonomous agents can orchestrate complex, multi-step enterprise workflows.  
 
 
@@ -21,5 +21,3 @@ I'm Aditya Puntambekar, currently pursuing a BSc in Data Science and Big Data An
 ![](https://github-contributor-stats.vercel.app/api?username=Adityapuntambekar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
